@@ -13,7 +13,9 @@ A lightweight and responsive weather app built using HTML, CSS, and JavaScript, 
 
 ![Main UI](./screenshots/main.png)
 
-![Not_Found](./screenshots/main.png)
+![Not_Found](./screenshots/not_found.png)
+
+![Working](./screenshots/working.png)
 
 ### 📱 Responsive Design
 
