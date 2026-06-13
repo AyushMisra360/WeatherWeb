@@ -43,11 +43,6 @@
 
 ![Working](./screenshots/working.png)
 
-### 📱 Responsive Design
-
-![Responsive View](./screenshots/responsive.png)
-
-
 ---
 
 ## ✨ Features
