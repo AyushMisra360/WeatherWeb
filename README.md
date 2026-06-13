@@ -1,21 +1,15 @@
 ---
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/path-to-your-logo.png" alt="Project Logo" width="120" />
 
-  # ProjectName
+
+  # WeatherWeb
 
   <p align="center">
-    <strong>The Ultimate, Privacy-Focused URL Shortener</strong>
+    <strong>Simple and responsive Weather app built using OpenWeather API  </strong>
     <br />
-    <a href="https://your-production-link.com"><strong>Explore the platform »</strong></a>
+    <a href="https://weatherwebappapi.netlify.app/"><strong>Live Demo »</strong></a>
     <br />
-    <br />
-    <a href="https://your-demo-link.com">View Demo</a>
-    ·
-    <a href="https://github.com/your-username/your-repo-name/issues/new?template=bug_report.md">Report Bug</a>
-    ·
-    <a href="https://github.com/your-username/your-repo-name/issues/new?template=feature_request.md">Request Feature</a>
   </p>
 
   <p align="center">
@@ -38,10 +32,6 @@
 ## ✨ About The Project
 
 **🌦️WeatherWeb** is a lightweight and responsive weather app built using HTML, CSS, and JavaScript, featuring real-time API integration, smooth animations, and clean UI for an enhanced user experience.
-## 🚀 Live Demo
-
-🔗 https://weatherwebappapi.netlify.app/
----
 
 ## 📸 Screenshots
 
