@@ -1,7 +1,43 @@
-# 🌦️WeatherWeb
-A lightweight and responsive weather app built using HTML, CSS, and JavaScript, featuring real-time API integration, smooth animations, and clean UI for an enhanced user experience.
+---
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/path-to-your-logo.png" alt="Project Logo" width="120" />
+
+  # ProjectName
+
+  <p align="center">
+    <strong>The Ultimate, Privacy-Focused URL Shortener</strong>
+    <br />
+    <a href="https://your-production-link.com"><strong>Explore the platform »</strong></a>
+    <br />
+    <br />
+    <a href="https://your-demo-link.com">View Demo</a>
+    ·
+    <a href="https://github.com/your-username/your-repo-name/issues/new?template=bug_report.md">Report Bug</a>
+    ·
+    <a href="https://github.com/your-username/your-repo-name/issues/new?template=feature_request.md">Request Feature</a>
+  </p>
+
+  <p align="center">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+    <a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
+    <a href="https://www.netlify.com"><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" /></a>
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/LICENSE-GPL--3.0-brightgreen?style=flat-square" alt="License" />
+    <img src="https://img.shields.io/badge/PRS-WELCOME-green?style=flat-square" alt="PRs Welcome" />
+  </p>
+
+</div>
+
 ---
 
+## ✨ About The Project
+
+**🌦️WeatherWeb** is a lightweight and responsive weather app built using HTML, CSS, and JavaScript, featuring real-time API integration, smooth animations, and clean UI for an enhanced user experience.
 ## 🚀 Live Demo
 
 🔗 https://weatherwebappapi.netlify.app/
